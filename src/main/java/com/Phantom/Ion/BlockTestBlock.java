@@ -8,7 +8,7 @@ public class BlockTestBlock extends Block
 	public BlockTestBlock()
 	{
 		super(Material.rock);
-		setBlockTextureName(Reference.MODID + ";" + getUnlocalizedName().substring(5) );
+		setBlockTextureName(Reference.MODID + "TestBlock");
 		setCreativeTab(CreativeTabs.tabBlock);
 	}
 
