@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Ion",
+  "name": "Ion",
+  "description": "Just a crappy block so far!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["PhantomAsh"],
+  "credits": "PhantomAsh for Being Awesome.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
